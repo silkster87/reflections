@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 When you initialize a repository you are creating an area where you want to keep track of the changes in your project using version control.
 This is especially useful if you want to keep track of bugs or want to revert to a previous version.
+
+How is the staging area different from the working directory and the repository?
