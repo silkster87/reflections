@@ -27,7 +27,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You can collaborate by using other version control software like tortoise SVN.
+    Since the other software is not as popular as git/github, it would be harder to
+    share.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
