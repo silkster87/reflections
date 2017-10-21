@@ -34,4 +34,7 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would want to make changes in a separate branch to test out a new feature
+    but with the insurance that if it goes wrong, it won't affect the mainline project.
+    If the separate branch goes well then you can push it to your forked repo and then
+    make a pull request.
